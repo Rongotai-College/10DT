@@ -14,4 +14,4 @@ This is an example of **MarkDown**
 
 [Anaconda - Python](https://www.youtube.com/watch?v=MUZtVEDKXsk)
 
-![image](10DT/Mixed-CSS-Grid/images/rc1.jpg)
+![image](raw.githubusercontent.com/Rongotai-College/10DT/Mixed-CSS-Grid/images/rc1.jpg)
