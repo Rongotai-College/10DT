@@ -11,7 +11,8 @@ I have a few friends who have Teslas and have driven one myself.  I like the min
 
 ### The Design
 * Colour
-  * Reason for picking the colours of the Home Page:
+  * The colours I have chosen for the Home Page is taken from the hero image on that page.
+  * 
     
 * Layout
 * Font Styles
