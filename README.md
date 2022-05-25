@@ -4,3 +4,11 @@
 - Eddie Petersen
 - Justin Bieber
 
+### The Design
+* Colour
+  * Reason for picking the colours of the Home Page:
+    
+* Layout
+* Font Styles
+* Media
+
