@@ -12,7 +12,7 @@ I have a few friends who have Teslas and have driven one myself.  I like the min
 ### The Design
 * Colour
   * The colours I have chosen for the Home Page is taken from the hero image on that page.
-  * The website that I used for this is: [**colorexplorer**](http://www.colorexplorer.com/imageimport.aspx)
+  * The website that I used for this is: [**colorexplorer.com**](http://www.colorexplorer.com/imageimport.aspx)
     
 * Layout
 * Font Styles
