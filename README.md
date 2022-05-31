@@ -22,6 +22,7 @@ I have a few friends who have Teslas and have driven one myself.  I like the min
   * The website that I used for this is: [**colorexplorer.com**](http://www.colorexplorer.com/imageimport.aspx)
     
 * Layout
+  * This is the layout of the **Home Page**
 * Font Styles
 * Media
 
