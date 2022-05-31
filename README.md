@@ -23,6 +23,18 @@ I have a few friends who have Teslas and have driven one myself.  I like the min
     
 * Layout
   * This is the layout of the **Home Page**
+
+add image here
+
+
+
+
+
+
+
+
+
+
 * Font Styles
 * Media
 
