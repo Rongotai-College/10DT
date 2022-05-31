@@ -24,7 +24,7 @@ I have a few friends who have Teslas and have driven one myself.  I like the min
 * Layout
   * This is the layout of the **Home Page**
 
-add image here
+<a href="task"><image src="?raw=true" title="The Task" width=950>
 
 
 
