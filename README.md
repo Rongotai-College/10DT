@@ -1,7 +1,8 @@
 ---
-Edward Martin Petersen: Design and Develop a Digital Media Outcome: Tesla Website
+Edward Martin Petersen: Design and Develop a Digital Media Outcome
 ---
-
+Tesla Website
+---
 
 
 
